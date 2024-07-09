@@ -12,7 +12,7 @@ I am a skilled Back End Developer and Database Specialist with expertise in Bash
 
 ## Get In Touch
 - LinkedIn: [Shem Mwanzia](https://www.linkedin.com/in/shem-mwanzia)
-- Email: shemmwanzia@example.com
+- Email: masooshem@gmail.com
 
 Feel free to explore my repositories and get in touch for collaborations or inquiries. Thank you for visiting!
 
