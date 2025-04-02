@@ -1,14 +1,7 @@
 # Hi there! I'm Shem Mwanzia
 
 ## About Me
-I am a skilled Back End Developer <br>and Database Specialist with expertise in Bash Scripting, Python, and Networks.
-
-## Skills
-- Back End Development
-- Databases: MySQL, PostgreSQL
-- Bash Scripting
-- Python
-- Networking
+I am a skilled Full-Stack Developer 
 
 ## Get In Touch
 - LinkedIn: [Shem Mwanzia](https://www.linkedin.com/in/shem-mwanzia)
